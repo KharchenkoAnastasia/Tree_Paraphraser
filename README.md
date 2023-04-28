@@ -1,7 +1,7 @@
 # Tree_Paraphraser
 
 
-**Tree_Paraphraser_app.py** is a Python API that implements a single endpoint that accepts an English test syntax tree and returns paraphrased versions of it. 
+**Tree_Paraphraser_app.py** is a Python API that implements a single endpoint that accepts an English text syntax tree and returns paraphrased versions of it. 
 
 -path: /paraphrase<br>
 -HTTP method: GET<br>
