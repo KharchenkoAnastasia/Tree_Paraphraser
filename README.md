@@ -19,7 +19,7 @@
 <br>
 
 **How to run "Tree_Paraphraser_app.py"**<br>
-In order to run the script "Tree_Paraphraser_app.py" you need to install "TreeParaphraser.py" and "Tree_Paraphraser_app.py" in the same directory. You also need to install the flask framework and the nltk library."  Then open a terminal or command prompt and navigate to the directory where the file is saved. Then, run the command python "Tree_Paraphraser_app.py" to start the Flask server.  Once the server is running, you can open a web browser and navigate to "http://localhost:8080/paraphrase" and pass in the tree parameter with the parsed tree as a string and the maximum number of paraphrase tests parameter. Specify the port number as **8080**.
+In order to run the script "Tree_Paraphraser_app.py" you need to install "TreeParaphraser.py" and "Tree_Paraphraser_app.py" in the same directory. You also need to install the flask framework and the nltk library."  Then open a terminal or command prompt and navigate to the directory where the file is saved. Then, run the command python "Tree_Paraphraser_app.py" to start the Flask server.  Once the server is running, you can open a web browser and navigate to "http://localhost:8080/paraphrase" and pass in the tree parameter with the сonstituency-based parse tree as a string and the maximum number of paraphrase tress parameter. Specify the port number as **8080**.
 
 <br>
 
